@@ -1,0 +1,20 @@
+{
+  "name": "wishlist",
+  "version": "0.0.1",
+  "description": "whish list",
+  "main": "wish-list.js",
+  "scripts": {
+    "start": "wds --node-resolve --watch --open"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Rosendo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
+  }
+}
